@@ -7,5 +7,30 @@
   ],
   "profile": {
     "name": "typicode"
+  },
+  "code":{
+  "meta": {
+    "version": "1.0.0"
+  },
+  "data": {
+    "code": "34rfgq2werd"
   }
+},
+  "settings":{
+	"numbers": [
+		{
+			"number": "<Test Number>",
+			"type": "master"
+		}
+	],
+	"webhooks": [
+		{
+			"url": "<Url>",
+			"type": "master",
+			"webookChannel": "agc",
+			"authType": "basic",
+			"authData": {},
+		}
+	]
+}
 }

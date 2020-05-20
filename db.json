@@ -29,7 +29,7 @@
 			"type": "master",
 			"webookChannel": "agc",
 			"authType": "basic",
-			"authData": {},
+			"authData": {}
 		}
 	]
 }

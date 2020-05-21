@@ -32,5 +32,33 @@
 			"authData": {}
 		}
 	]
+}, 
+	"numbers" : {
+  "meta": {
+    "version": "1.0.0"
+  },
+  "data": [
+    {
+      "verified_name": "Cequens Sandbox",
+      "display_phone_number": "+20 1065509866",
+      "quality_rating": "GREEN",
+      "thread_limit_per_day": 1000,
+      "id": "3352998421396173"
+    },
+    {
+      "verified_name": "CEQUENS Demo",
+      "display_phone_number": "+966 56 909 0904",
+      "quality_rating": "GREEN",
+      "thread_limit_per_day": 1000,
+      "id": "2908768715841782"
+    },
+    {
+      "verified_name": "CEQUENS",
+      "display_phone_number": "+20 1202371792",
+      "quality_rating": "GREEN",
+      "thread_limit_per_day": 1000,
+      "id": "2484565471672614"
+    }
+  ]
 }
 }

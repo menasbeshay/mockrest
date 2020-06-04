@@ -9,21 +9,37 @@
   }
 },
   "settings":{
-	"numbers": [
-		{
-			"number": "<Test Number>",
-			"type": "master"
-		}
-	],
-	"webhooks": [
-		{
-			"url": "<Url>",
-			"type": "master",
-			"webookChannel": "agc",
-			"authType": "basic",
-			"authData": {}
-		}
-	]
+	"meta": {
+    "version": "1.0.0"
+  },
+  "data": {
+    "numbers": [
+      {
+        "number": "<Test Number>",
+        "type": "master"
+      }
+    ],
+    "fbManagerId": "",
+    "businessName": "",
+    "fbManagerToken": "",
+    "sandboxStatus": 0,
+    "accountWABNumbers": [
+      {
+        "token": "",
+        "phoneNumber": "",
+        "url": "",
+        "webhooks": [
+          {
+            "url": "<Url>",
+            "type": "master",
+            "webookChannel": "agc",
+            "authType": "basic",
+            "authData": {}
+          }
+        ]
+      }
+    ]
+  }
 }, 
 	"numbers" : {
   "meta": {

@@ -15,7 +15,7 @@
   "data": {
     "numbers": [
       {
-        "number": "<Test Number>",
+        "number": "201003566608",
         "type": "master"
       }
     ],
@@ -30,7 +30,7 @@
         "url": "",
         "webhooks": [
           {
-            "url": "<Url>",
+            "url": "url",
             "type": "master",
             "webookChannel": "agc",
             "authType": "basic",
